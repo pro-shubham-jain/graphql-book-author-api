@@ -1,0 +1,46 @@
+{
+  "name": "graphql-book-author-api",
+  "version": "1.0.0",
+  "description": "GraphQL API for managing data related to books and authors.",
+  "main": "index.js",
+  "keywords": [
+    "GraphQL",
+    "API",
+    "Book Management",
+    "Author Management",
+    "Node.js",
+    "Express.js",
+    "Database",
+    "RESTful API",
+    "Data Modeling",
+    "Open Source",
+    "JavaScript",
+    "Data Querying",
+    "Schema",
+    "Mutations",
+    "Book Catalog",
+    "API Documentation",
+    "Data Retrieval",
+    "Database Integration",
+    "Web Development",
+    "Programming",
+    "GitHub Repository"
+  ],
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/pro-shubham-jain/graphql-book-author-api.git"
+  },
+  "author": "Shubham Jain",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "express-graphql": "^0.12.0",
+    "graphql": "^15.8.0"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.1"
+  }
+}
